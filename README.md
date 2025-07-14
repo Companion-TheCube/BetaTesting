@@ -25,7 +25,7 @@ If your feedback doesn’t fit into a specific app repo, it belongs here.
 
 | Type of Feedback | Where to File It |
 |------------------|------------------|
-| Companion UI bugs | [companion-ui repo](https://github.com/Companion-TheCube/Core/issues) |
+| Companion UI bugs | [TheCube CORE repo](https://github.com/Companion-TheCube/Core/issues) |
 | App-specific bugs | Inside that app's repo (e.g. `apps/timer`, `apps/weather`) |
 | General platform/hardware issues | **This repo** |
 | Feature checklist comments | Use the linked issues in this repo’s [GitHub Project board](https://github.com/orgs/Companion-TheCube/projects/1) |
